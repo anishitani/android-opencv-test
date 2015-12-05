@@ -32,3 +32,6 @@ Open the `activity_main.xml` file and change it by the following snippet:
 
 </LinearLayout>
 ```
+
+Now what we have is a clean screen with a single button.
+ 
